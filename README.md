@@ -1,5 +1,5 @@
-# Chris Carbonell
+# Hi, I'm Chris Carbonell 👋
 
-Hi! I'm Chris Carbonell. I love all things related to:
-* mining data for actionable insights using <b>machine learning and AI</b> and 
-* <b>automating workflows</b> using Python, Bash, and AWS/GCP.
+I build end-to-end data systems and intelligent applications, specializing in:
+- **Machine Learning & Applied AI:** Extracting actionable signals from complex data to solve high-impact business problems.
+- **Production Engineering & Automation:** Designing scalable data pipelines, APIs, and cloud workflows.
